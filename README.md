@@ -1,5 +1,4 @@
-Overview.
-=========
+## Overview
 
 For more info: http://blog.kowalczyk.info/software/fofou/
 
@@ -12,8 +11,7 @@ This is a version for App Engine, written in Python. I no longer work on it.
 
 There's another version written in Go: https://github.com/kjk/fofou
 
-Installation.
-=============
+## Installation
 
 For Google App Engine version you need to get App Engine
 account and upload fofou (see
@@ -22,16 +20,14 @@ details).
 
 Once installed, you can create one or more forums through web interface.
 
-Design philosophy.
-==================
+## Design philosophy
 
 You'll quickly see that Fofou differs in many ways from most common forum
 software. There are good reasons for the differences and Joel Spolsky describes
 those reason in great detail:
 http://www.joelonsoftware.com/articles/BuildingCommunitieswithSo.html
 
-License.
-========
+## License
 
 The code is written completely by me and is in Public Domain.
 
